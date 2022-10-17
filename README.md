@@ -10,3 +10,4 @@
 |---|-------------|---------------------|
 | 1 | Использование графических возможностей офисных пакетов | [docx](practical_works/year_1/semester_1/practice_1/task.docx) |
 | 2 | Растровый графический редактор GIMP | [docx](practical_works/year_1/semester_1/practice_2/task.docx) |
+| 3 | Графический редактор GIMP, инструмент «текст» | [docx](practical_works/year_1/semester_1/practice_3/task.docx) |
