@@ -6,8 +6,8 @@
 
 ### Первый год, первый семестр
 
-| № | Тема работы | Практическая работа |
-|---|-------------|---------------------|
-| 1 | Использование графических возможностей офисных пакетов | [docx](practical_works/year_1/semester_1/practice_1/task.docx) |
-| 2 | Растровый графический редактор GIMP | [docx](practical_works/year_1/semester_1/practice_2/task.docx) |
-| 3 | Графический редактор GIMP, инструмент «текст» | [docx](practical_works/year_1/semester_1/practice_3/task.docx) |
+| № | Тема работы | Практическая работа | Контрольные вопросы |
+|---|-------------|----------------------| ---------------------- |
+| 1 | Использование графических возможностей офисных пакетов | [docx](practical_works/year_1/semester_1/practice_1/task.docx) | --- |
+| 2 | Растровый графический редактор GIMP | [docx](practical_works/year_1/semester_1/practice_2/task.docx) | [docx](practical_works/year_1/semester_1/practice_2/questions.docx) |
+| 3 | Графический редактор GIMP, инструмент «текст» | [docx](practical_works/year_1/semester_1/practice_3/task.docx) | [docx](practical_works/year_1/semester_1/practice_3/questions.docx) |
